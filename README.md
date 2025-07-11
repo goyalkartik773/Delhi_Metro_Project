@@ -35,4 +35,31 @@ See the [Rapid Metro synopsis](./Rapid%20Metro%20synopsis.pdf) for full document
 ## 📌 Project Outcome
 Helps commuters find optimal metro routes with real-time adaptability, contributing to urban mobility solutions.
 
+## 📸 Screenshot
+  [Welcome Page]
+  
+  ![Welcome Screen](./Welcome.png)
+
+  
+  🚉 Station Information Page
+  
+  ![stations](./Stations.png)
+
+  
+  🗺️ Metro Map Visualization (SFML)
+  
+  ![maps](./map.png)
+  
+  output window 1
+  
+  ![functions](./f1.png)
+
+  
+  output window 2
+  
+  ![functions](./f2.png)
+  
+
+  
+
 ---
